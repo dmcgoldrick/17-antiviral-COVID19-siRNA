@@ -2,7 +2,7 @@
 An RNAi pipeline is applied to the genome of SARS like corona virus Wuhan-HU-1 yielding 17 candidate siRNA sequences for nebulization tests
 
 # Methods
-1) Generated all 21mers for the human genome trasncriptome gencodev33 and the Wuhan-Hu-1 coronavirus (WH1; https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) 
+1) Generated all 21mers for the human genome transcriptome gencodev33 and the Wuhan-Hu-1 coronavirus (WH1; https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) 
 2) Found all 21mers that were in the WH1 genome and not the human transcriptome
 3) filtered the remaining 29854 21mers into those that did not contain 5,4,3, or 2 stretches of bases (n=27951,22303,9351,123 resp.)
 4) Proceeded with the n=123 21mers to back compare against the entire NT database for 
