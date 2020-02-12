@@ -16,5 +16,6 @@ So these siRNA are now available for clinical research testing against cases of 
 sequences can be ordered here:
 https://www.thermofisher.com/order/custom-genomic-products/tools/sirna/
 
-see:
+and see:
 https://www.jstage.jst.go.jp/article/cpb/64/1/64_c15-00615/_pdf/-char/en
+https://www.amazon.com/gp/product/B0832VKS79/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
