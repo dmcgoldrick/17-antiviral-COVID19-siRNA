@@ -13,12 +13,14 @@ An RNAi pipeline is applied to the genome of SARS like corona virus Wuhan-HU-1 y
 
 So these siRNA are now available for clinical research testing against cases of Wuhan-Hu-1 that are not responding to vaccines or other therapy. 
 
+# Sequence Sources:
 sequences can be ordered here:
 https://www.thermofisher.com/order/custom-genomic-products/tools/sirna/
 or here:
 https://horizondiscovery.com/en/products/tools/Custom-siRNA
 or ...
 
+# Delivery 
 and see:
 https://www.jstage.jst.go.jp/article/cpb/64/1/64_c15-00615/_pdf/-char/en
 https://www.amazon.com/gp/product/B0832VKS79/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
