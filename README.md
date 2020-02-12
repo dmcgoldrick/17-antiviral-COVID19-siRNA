@@ -24,3 +24,9 @@ or ...
 and see:
 https://www.jstage.jst.go.jp/article/cpb/64/1/64_c15-00615/_pdf/-char/en
 https://www.amazon.com/gp/product/B0832VKS79/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+
+# RNA References
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC387140/pdf/pnas00328-0108.pdf
+
+
+
