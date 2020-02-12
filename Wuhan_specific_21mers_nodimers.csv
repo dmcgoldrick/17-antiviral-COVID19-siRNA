@@ -1,4 +1,4 @@
-miRNA	seq	S	Description	E	x	y	mm	priority	idx
+miRNA	sequence	S	Description	E	x	y	mm	priority	idx
 ACACTACAGCTGATGCATACA_1	ACACTACAGCTGATGCATACA	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	1
 ACTACAGCTGATGCATACATA_1	ACTACAGCTGATGCATACATA	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	2
 ATGTATGCATCAGCTGTAGTG_1	ATGTATGCATCAGCTGTAGTG	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	3
