@@ -1,0 +1,124 @@
+miRNA	seq	S	Description	E	x	y	mm	priority	idx
+ACACTACAGCTGATGCATACA_1	ACACTACAGCTGATGCATACA	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	1
+ACTACAGCTGATGCATACATA_1	ACTACAGCTGATGCATACATA	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	2
+ATGTATGCATCAGCTGTAGTG_1	ATGTATGCATCAGCTGTAGTG	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	3
+CTGTAGCGACTGTATGCAGCA_1	CTGTAGCGACTGTATGCAGCA	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	0.74	21	21	0	1	4
+ACTAGTACTGATGTCGTATAC_1	ACTAGTACTGATGTCGTATAC	MK211374.1	Coronavirus BtRl-BetaCoV/SC2018, complete genome	34	20	21	0	1	5
+CTAGTACTGATGTCGTATACA_1	CTAGTACTGATGTCGTATACA	MK211374.1	Coronavirus BtRl-BetaCoV/SC2018, complete genome	34	20	21	0	1	6
+CTGTATACGACATCAGTACTA_1	CTGTATACGACATCAGTACTA	MK211374.1	Coronavirus BtRl-BetaCoV/SC2018, complete genome	34	20	21	0	1	7
+AGCTGTATACACTATGCGAGC_1	AGCTGTATACACTATGCGAGC	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	8
+ATAGTACTACAGATAGAGACA_1	ATAGTACTACAGATAGAGACA	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	9
+CATAGTACTACAGATAGAGAC_1	CATAGTACTACAGATAGAGAC	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	10
+CGACGACGACTACTAGCGTGC_1	CGACGACGACTACTAGCGTGC	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	11
+CTCTATCTGTAGTACTATGAC_1	CTCTATCTGTAGTACTATGAC	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	12
+CTGCTCGCATAGTGTATACAG_1	CTGCTCGCATAGTGTATACAG	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	13
+GCTGTATACACTATGCGAGCA_1	GCTGTATACACTATGCGAGCA	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	14
+GTGTCTCTATCTGTAGTACTA_1	GTGTCTCTATCTGTAGTACTA	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	15
+TCATAGTACTACAGATAGAGA_1	TCATAGTACTACAGATAGAGA	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	16
+TCTGCTCGCATAGTGTATACA_1	TCTGCTCGCATAGTGTATACA	MK211378.1	Coronavirus BtRs-BetaCoV/YN2018D, complete genome	0.74	21	21	0	1	17
+AGTCACATCTGTGACATCACA_1	AGTCACATCTGTGACATCACA	MG772934.1	Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome	2.7	20	20	0	1	18
+ACTCGTGACATAGCATCTACA_1	ACTCGTGACATAGCATCTACA	ref|XM_001708052.1|	Giardia lamblia ATCC 50803 20S proteasome alpha subunit 2 (GL50803_11434) mRNA, complete cds	2.7	20	20	0	1	19
+CTCGTGACATAGCATCTACAG_1	CTCGTGACATAGCATCTACAG	ref|XM_001708052.1|	Giardia lamblia ATCC 50803 20S proteasome alpha subunit 2 (GL50803_11434) mRNA, complete cds	2.7	20	20	0	1	20
+ATACGACATCAGTACTAGTGC_1	ATACGACATCAGTACTAGTGC	MK211374.1	Coronavirus BtRl-BetaCoV/SC2018, complete genome	9.5	19	19	0	1	21
+ATCGACATAGCGAGTGTATGC_1	ATCGACATAGCGAGTGTATGC	gb|CP038856.1|	Citrobacter freundii strain Upstream_1 chromosome, complete genome	34	18	18	0	1	22
+CACTAGTACTGATGTCGTATA_1		gb|CP032575.1|	Gossypium turneri isolate D10-2 chromosome D10_05	34	20	21	0	2	
+ATATGACGCGCACTACAGTCA_1		ref|XM_022433300.1|	PREDICTED: Crassostrea virginica uncharacterized LOC111101042 (LOC111101042), transcript variant X3, mRNA	34	20	21	0	2	
+AGATGCTGTAGACTGTGCACT_1		ref|XM_031671120.1|	PREDICTED: Vicugna pacos HECT, UBA and WWE domain containing E3 ubiquitin protein ligase 1 (HUWE1), transcript variant X11, mRNA	34	20	21	0	2	
+ACTGTACACTCGATCGTACTC_1		MK204389.1	Sharp-tailed sandpiper Picornavirus B-like polyprotein gene, complete cds	34	20	21	0	2	
+ACTGTATGTGATGTCAGCACA_1		emb|LR664363.1|	Coregonus sp. 'balchen' genome assembly, chromosome: 20	2.7	20	20	0	2	
+GTGCTGACATCACATACAGTA_1		emb|LR597563.1|	Myripristis murdjan genome assembly, chromosome: 14	2.7	20	20	0	2	
+CAGCTACTATAGATGCTGATA_1		ref|XR_002658938.1|	PREDICTED: Brassica napus uncharacterized LOC111206684 (LOC111206684), ncRNA	2.7	20	20	0	2	
+CATGATGTCTACAGACAGCAC_1		emb|LR584419.1|	Salmo trutta genome assembly, chromosome: 10	2.7	20	20	0	2	
+ACAGCATCGTCAGAGAGTATC_1		emb|LR584080.1|	Scleropages formosus genome assembly, chromosome: 15	123	19	20	0	2	
+ACAGCATCGTCAGAGAGTATC_1		emb|LR584080.1|	Scleropages formosus genome assembly, chromosome: 15	123	19	20	0	2	
+ACAGCATCGTCAGAGAGTATC_1		emb|LR584080.1|	Scleropages formosus genome assembly, chromosome: 15	123	19	20	0	2	
+ACTCATATGAGTGTGACATAC_1		emb|LR584072.1|	Scleropages formosus genome assembly, chromosome: 7	2.7	20	20	0	2	
+ACTGTACACTCGATCGTACTC_1		MK204389.1	Sharp-tailed sandpiper Picornavirus B-like polyprotein gene, complete cds	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	123	19	20	0	2	
+ATGCTATGTCACGAGTGACAC_1		emb|AM424199.2|	Vitis vinifera contig VV78X138344.6, whole genome shotgun sequence	2.7	20	20	0	2	
+ACTCTACACGAGCACGTGCAG_1		emb|LR699763.1|	Arabidopsis thaliana genome assembly, chromosome: 4	9.5	19	19	0	2	
+CACTCTACACGAGCACGTGCA_1		emb|LR699763.1|	Arabidopsis thaliana genome assembly, chromosome: 4	9.5	19	19	0	2	
+CATACACTCGCTATGTCGATA_1		ref|XM_024840993.1|	Aspergillus campestris IBT 28561 PROCN-domain-containing protein (P168DRAFT_325375), partial mRNA	9.5	19	19	0	2	
+ACACACTGACTAGAGACTAGT_1		emb|LR031878.1|	Brassica oleracea HDEM genome, scaffold: C1	9.5	19	19	0	2	
+CACACTGACTAGAGACTAGTG_1		emb|LR031878.1|	Brassica oleracea HDEM genome, scaffold: C1	9.5	19	19	0	2	
+AGTATCTGTAGATGCTATGTC_1		MG778235.1	Dictyochloris fragrans CF1 alpha subunit of ATP synthase (atpA) gene, complete cds; chloroplast	9.5	19	19	0	2	
+ACATATCAGCATCTATAGTAG_1		ref|XM_004366671.1|	Dictyostelium fasciculatum hypothetical protein (DFA_02341) mRNA, complete cds	9.5	19	19	0	2	
+CATATCAGCATCTATAGTAGC_1		ref|XM_004366671.1|	Dictyostelium fasciculatum hypothetical protein (DFA_02341) mRNA, complete cds	9.5	19	19	0	2	
+GACATATCAGCATCTATAGTA_1		ref|XM_004366671.1|	Dictyostelium fasciculatum hypothetical protein (DFA_02341) mRNA, complete cds	9.5	19	19	0	2	
+CACTCGTGACATAGCATCTAC_1		ref|XM_001708052.1|	Giardia lamblia ATCC 50803 20S proteasome alpha subunit 2 (GL50803_11434) mRNA, complete cds	9.5	19	19	0	2	
+CATCGTCAGAGAGTATCATCA_1		ref|XM_009011685.1|	Helobdella robusta hypothetical protein mRNA	9.5	19	19	0	2	
+ACAGATGCTGTAGACTGTGCA_1		emb|LR535848.1|	Mastacembelus armatus genome assembly, chromosome: 16	9.5	19	19	0	2	
+GCACAGTCTACAGCATCTGTA_1		emb|LR535848.1|	Mastacembelus armatus genome assembly, chromosome: 16	9.5	19	19	0	2	
+ACTATATCTGCTGTCGTCTCA_1		ref|XM_022677511.1|	PREDICTED: Astyanax mexicanus Nance-Horan syndrome protein (LOC103041904), transcript variant X6, mRNA	9.5	19	19	0	2	
+CTATATCTGCTGTCGTCTCAG_1		ref|XM_022677511.1|	PREDICTED: Astyanax mexicanus Nance-Horan syndrome protein (LOC103041904), transcript variant X6, mRNA	9.5	19	19	0	2	
+ATCTGTAGATGCTATGTCACG_1		ref|XM_013211587.1|	PREDICTED: Biomphalaria glabrata E3 ubiquitin-protein ligase Topors-like (LOC106055365), partial mRNA	9.5	19	19	0	2	
+TCGTGACATAGCATCTACAGA_1		ref|XM_013211587.1|	PREDICTED: Biomphalaria glabrata E3 ubiquitin-protein ligase Topors-like (LOC106055365), partial mRNA	9.5	19	19	0	2	
+AGCTACTATAGATGCTGATAT_1		ref|XR_002658938.1|	PREDICTED: Brassica napus uncharacterized LOC111206684 (LOC111206684), ncRNA	9.5	19	19	0	2	
+GCATGATGTCTACAGACAGCA_1		ref|XM_028984350.1|	PREDICTED: Denticeps clupeoides putative transcription factor Ovo-like 1 (LOC114792861), mRNA	9.5	19	19	0	2	
+AGCATGATGTCTACAGACAGC_1		ref|XM_022897721.1|	PREDICTED: Durio zibethinus choline monooxygenase, chloroplastic (LOC111301775), transcript variant X5, mRNA	9.5	19	19	0	2	
+CTGTCTGTAGACATCATGCTA_1		ref|XM_022897721.1|	PREDICTED: Durio zibethinus choline monooxygenase, chloroplastic (LOC111301775), transcript variant X5, mRNA	9.5	19	19	0	2	
+GACAGCATCAGTAGTGTCAGC_1		ref|XR_002705020.1|	PREDICTED: Olea europaea var. sylvestris CRC domain-containing protein TSO1-like (LOC111407049), transcript variant X2, misc_RNA	9.5	19	19	0	2	
+AGTACGATCGAGTGTACAGTG_1		ref|XM_027180870.1|	PREDICTED: Pocillopora damicornis putative aldolase class 2 protein CC_1201 (LOC113665202), mRNA	9.5	19	19	0	2	
+GTACGATCGAGTGTACAGTGA_1		ref|XM_027180870.1|	PREDICTED: Pocillopora damicornis putative aldolase class 2 protein CC_1201 (LOC113665202), mRNA	9.5	19	19	0	2	
+TGAGTCACATCTGTGACATCA_1		ref|XM_010353675.2|	PREDICTED: Rhinopithecus roxellana putative uncharacterized protein C14orf177 (LOC104654469), transcript variant X2, mRNA	9.5	19	19	0	2	
+ACAGCATCGTCAGAGAGTATC_1		emb|LR584080.1|	Scleropages formosus genome assembly, chromosome: 15	9.5	19	19	0	2	
+ACAGCATCGTCAGAGAGTATC_1		emb|LR584080.1|	Scleropages formosus genome assembly, chromosome: 15	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	9.5	19	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	9.5	19	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	18	19	0	2	
+GAGTCACATCTGTGACATCAC_1		emb|LR722979.1|	Thalassophryne amazonica genome assembly, chromosome: 14	9.5	19	19	0	2	
+GAGTCACATCTGTGACATCAC_1		emb|LR722979.1|	Thalassophryne amazonica genome assembly, chromosome: 14	444	18	19	0	2	
+GAGTCACATCTGTGACATCAC_1		emb|LR722979.1|	Thalassophryne amazonica genome assembly, chromosome: 14	444	18	19	0	2	
+AGCATCGTCAGAGAGTATCAT_1		emb|LR722981.1|	Thalassophryne amazonica genome assembly, chromosome: 16	9.5	19	19	0	2	
+CAGCATCGTCAGAGAGTATCA_1		emb|LR722981.1|	Thalassophryne amazonica genome assembly, chromosome: 16	9.5	19	19	0	2	
+GATGATACTCTCTGACGATGC_1		emb|LR722981.1|	Thalassophryne amazonica genome assembly, chromosome: 16	9.5	19	19	0	2	
+GATGCTATGTCACGAGTGACA_1		emb|AM424199.2|	Vitis vinifera contig VV78X138344.6, whole genome shotgun sequence	9.5	19	19	0	2	
+GTATCTGTAGATGCTATGTCA_1		emb|LR606180.1|	Aquila chrysaetos chrysaetos genome assembly, chromosome: Z	34	18	18	0	2	
+GTGACATAGCATCTACAGATA_1		emb|LR606180.1|	Aquila chrysaetos chrysaetos genome assembly, chromosome: Z	34	18	18	0	2	
+ACACTCTACACGAGCACGTGC_1		emb|LR699748.2|	Arabidopsis thaliana genome assembly, chromosome: 4	34	18	18	0	2	
+AGATGCTATGTCACGAGTGAC_1		emb|LR664359.1|	Coregonus sp. 'balchen' genome assembly, chromosome: 16	34	18	18	0	2	
+TAGATGCTATGTCACGAGTGA_1		emb|LR664359.1|	Coregonus sp. 'balchen' genome assembly, chromosome: 16	34	18	18	0	2	
+ATCGTCAGAGAGTATCATCAT_1		gb|CP031311.1|	Halobellus limi strain CGMCC 1.10331 chromosome, complete genome	34	18	18	0	2	
+CAGATGCTGTAGACTGTGCAC_1		emb|LR722986.1|	Thalassophryne amazonica genome assembly, chromosome: 21	34	18	18	0	2	
+GTGACATAGCATCTACAGATA_1		emb|LR606180.1|	Aquila chrysaetos chrysaetos genome assembly, chromosome: Z	123	17	17	0	2	
+GAGTCACATCTGTGACATCAC_1		emb|LR722979.1|	Thalassophryne amazonica genome assembly, chromosome: 14	123	17	17	0	2	
+GTATCTGTAGATGCTATGTCA_1		emb|LR606180.1|	Aquila chrysaetos chrysaetos genome assembly, chromosome: Z	444	16	16	0	2	
+ACACACTGACTAGAGACTAGT_1		emb|LR031878.1|	Brassica oleracea HDEM genome, scaffold: C1	444	16	16	0	2	
+ACACACTGACTAGAGACTAGT_1		emb|LR031878.1|	Brassica oleracea HDEM genome, scaffold: C1	444	16	16	0	2	
+CACACTGACTAGAGACTAGTG_1		emb|LR031878.1|	Brassica oleracea HDEM genome, scaffold: C1	444	16	16	0	2	
+CACACTGACTAGAGACTAGTG_1		emb|LR031878.1|	Brassica oleracea HDEM genome, scaffold: C1	444	16	16	0	2	
+ACTGTATGTGATGTCAGCACA_1		emb|LR664363.1|	Coregonus sp. 'balchen' genome assembly, chromosome: 20	444	16	16	0	2	
+ACAGCATCAGTAGTGTCAGCA_1		emb|LR597468.1|	Sphaeramia orbicularis genome assembly, chromosome: 11	444	16	16	0	2	
+GAGTCACATCTGTGACATCAC_1		emb|LR722979.1|	Thalassophryne amazonica genome assembly, chromosome: 14	444	16	16	0	2	
+GAGTCACATCTGTGACATCAC_1		emb|LR722979.1|	Thalassophryne amazonica genome assembly, chromosome: 14	444	16	16	0	2	
+CAGATGCTGTAGACTGTGCAC_1		emb|LR722986.1|	Thalassophryne amazonica genome assembly, chromosome: 21	444	16	16	0	2	
