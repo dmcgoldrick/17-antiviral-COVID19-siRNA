@@ -15,7 +15,9 @@ An RNAi pipeline is applied to the genome of SARS like corona virus Wuhan-HU-1 y
 5.1) generate the free energy of binding difference between the virus, and human transcriptome and genome (not released here yet)
 6) inspect the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png)
 
-So these siRNA are now available for clinical research testing against cases of Wuhan-Hu-1 that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered from sequence sorces below among others...Delivery method is possible - see Simple Clinical Delivery Methods below...
+So these siRNA are now available for clinical research testing against cases of Wuhan-Hu-1 that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered from some sequence sources below and anealed in suitable buffer to generate the siRNA (among other sources)
+
+A method for delivery is proposed - see Simple Clinical Delivery Methods below
 
 # Sequence Sources:
 sequences can be ordered here:
