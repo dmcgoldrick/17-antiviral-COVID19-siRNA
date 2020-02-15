@@ -1,23 +1,27 @@
-# 17_Top_Tier_Wuhan-Hu-1_siRNA
-An RNAi pipeline is applied to the genome of SARS like corona virus Wuhan-HU-1 yielding 17 candidate siRNA sequences for nebulization tests
+# 17 specific siRNA hitting 9 loci of COVID-19
+An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wuhan-HU-1; NC_045512) yielding 17 candidate siRNA sequences for nebulization tests
 
 # Methods
-1) Generated all 21mers for the human genome transcriptome gencodev33 and the Wuhan-Hu-1 coronavirus (WH1; https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) 
+1) Generated all 21mers for the human genome transcriptome gencodev33 and the COVID-19 coronavirus (WH1; https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) 
 2) Found all 21mers that were in the WH1 genome and not the human transcriptome
-3) filtered the remaining 29854 21mers into those that did not contain 5,4,3, or 2 stretches of bases (n=27951,22303,9351,123 resp.)
-4) Proceeded with the n=123 21mers to back compare against the entire NT database for 
+3) filtered the remaining 29,854 21mers into those that did not contain 5,4,3, or 2 stretches of bases (n=27951,22303,9351,123 resp.)
+  These kmers should not be easy to inhibit with homo-polymer sequences at 5',3' or internal sites 
+4) Proceeded with the n=123 21mers to back compare against the entire NT database (all of life) for 
 
   4.1) circular top hits back to a coronavirus and 
   
   4.2) with a complete 21 bp alignment (see Wuhan_specific_21mers_nodimers.xlsx)
   
-5) Of the 17 nucleotide aligned candidates left, put the sequences through a thermodynamic nearest neighbor analysis 
-5.1) generate the free energy of binding difference between the virus, and human transcriptome and genome (not released here yet)
-6) inspect the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png)
+5) Of the 17 nucleotide aligned candidates left, put the sequences through a thermodynamic nearest neighbor analysis for off target binding
 
-So these siRNA are now available for clinical research testing against cases of Wuhan-Hu-1 that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered from some sequence sources below. The sense/antisens oligos can be annealed in a suitable buffer to generate siRNA.
+  5.1) generated the free energy of binding difference between the virus:viral antisens, and human transcriptome 
+  (not released here yet)
+  
+6) inspected the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png). Hits 9 distinct locations across the COVID-19 genome
 
-A method for delivery is proposed - see Simple Clinical Delivery Methods
+So these siRNA are now available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered from some sequence sources below and annealed together in a suitable sterile buffer to generate siRNA.
+
+A simple nebulization method for delivery is plausible - see Simple Clinical Delivery Methods
 
 # Sequence Sources:
 sequences can be ordered here:
