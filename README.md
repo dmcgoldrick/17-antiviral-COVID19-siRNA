@@ -19,9 +19,9 @@ An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wu
   
 6) inspected the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png). Hits 9 distinct locations across the COVID-19 genome
 
-So these siRNA are now available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered from some sequence sources below and annealed together in a suitable sterile buffer to generate siRNA.
+So these siRNA are now available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form taken into the lungs.
 
-A simple nebulization method for delivery is plausible - see Simple Clinical Delivery Methods
+see Simple Clinical Delivery Methods below
 
 # Sequence Sources:
 sequences can be ordered here:
