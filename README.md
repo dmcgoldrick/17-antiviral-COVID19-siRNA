@@ -17,6 +17,7 @@ An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wu
 6) Inspected the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png). These 21mers hit 9 distinct locations all across the COVID-19 genome
 
 7) Displaced the siRNA sequence allowing binding comparisons for all kmers (ignoring G,U, and T) recorded lowest free energy of off-targets and the sequence to assess the genes that might be off-target hits  - see dataset (siRNA_df.xlsx)
+7.1) no off targets has a predicted free energy change of greater than -12 kcal/mol.
 
 8) Investigated the genes of all off-target energies for the displaced siRNA sequence test - see dataset (siRNA_genes_df.tsv). Every gene hit by a significant binding energy is evaluated for protein coding genes expressed in the lungs, and blood for potential unintended off-target effects. 
  
