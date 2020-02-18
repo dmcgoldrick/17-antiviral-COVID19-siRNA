@@ -18,12 +18,10 @@ An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wu
 
 7) Displaced the siRNA sequence allowing binding comparisons for all kmers (ignoring G,U, and T) recorded lowest free energy of off-targets and the sequence to assess the genes that might be off-target hits  - see dataset (siRNA_df.xlsx)
 7.1) no off targets has a predicted free energy change of greater than -12 kcal/mol.
-
-8) Investigated the genes of all off-target energies for the displaced siRNA sequence test - see dataset (siRNA_genes_df.tsv). Every gene hit by a significant binding energy is evaluated for protein coding genes expressed in the lungs, and blood for potential unintended off-target effects. 
  
-9) Release of the off-target gene stats 
+8) Release of the off-target gene stats 
  
-10) Report final selection for siRNA chemistry - Targets.seq
+9) Report final selection for siRNA chemistry - Targets.seq
 
 So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form and taken into the lungs.
 
