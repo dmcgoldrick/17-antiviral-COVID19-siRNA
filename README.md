@@ -26,18 +26,22 @@ An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wu
 
 So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form and taken into the lungs.
 
-see Simple Clinical Delivery Methods below
-
 # Sequence Sources:
 sequences can be ordered here:
 https://www.thermofisher.com/order/custom-genomic-products/tools/sirna/
+
 or here:
 https://horizondiscovery.com/en/products/tools/Custom-siRNA
+
 or ...
+https://www.sigmaaldrich.com/life-science/custom-oligos/sirna-oligos.html
+
+or ...
+choose your own
 
 # Simple Clinical Delivery Methods 
-and see:
 https://www.jstage.jst.go.jp/article/cpb/64/1/64_c15-00615/_pdf/-char/en
+
 https://www.amazon.com/gp/product/B0832VKS79/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 
 # RNA References
