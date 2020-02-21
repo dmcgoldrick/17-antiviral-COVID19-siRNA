@@ -12,7 +12,7 @@ An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wu
   
   4.2) with a complete 21 bp alignment (see Wuhan_specific_21mers_nodimers.xlsx)
   
-5) Of the 17 nucleotide aligned candidates left, put the sequences through a thermodynamic nearest neighbor analysis for off -target binding
+5) Of the 17 aligned candidates left, put the sequences through a thermodynamic nearest neighbor analysis for off -target binding
   
 6) Inspected the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png). These 21mers hit 9 distinct locations all across the COVID-19 genome
 
