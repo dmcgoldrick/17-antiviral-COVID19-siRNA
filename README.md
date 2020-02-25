@@ -1,5 +1,5 @@
 # 17 specific siRNA hitting 9 loci of COVID-19
-An RNAi pipeline is applied to the genome of SARS like corona virus COVID-19 (Wuhan-HU-1; NC_045512) yielding 17 candidate siRNA sequences potentially useful for nebulization therapy.
+An RNAi pipeline is applied to the genome of the positive sense RNA - SARS like corona virus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2; Wuhan-HU-1 NC_045512) causing COVID-19 yielding 17 best candidate siRNA sequences potentially useful for nebulization therapy.
 
 # Methods
 1) Generated all 21mers for the human genome transcriptome gencodev33 and the COVID-19 coronavirus (WH1; https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) 
@@ -47,6 +47,6 @@ https://www.amazon.com/gp/product/B0832VKS79/ref=ppx_yo_dt_b_asin_title_o01_s00?
 # RNA References
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC387140/pdf/pnas00328-0108.pdf
 
-# miR-223 reference (an alternative RNAi therapy)
+# miR-223 reference (an alternative compatible RNAi adjunct that can be included for ARDS cases, to prevent ALI)
 https://stm.sciencemag.org/content/9/408/eaah5360?utm_source=VancePak%20%28updated%206/30/2017%29&utm_campaign=2fa0418255-EMAIL_CAMPAIGN_2017_09_15&utm_medium=email&utm_term=0_56c46682ac-2fa0418255-126546449
 
