@@ -50,3 +50,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC387140/pdf/pnas00328-0108.pdf
 # miR-223 reference (an alternative compatible RNAi adjunct that can be included for ARDS cases, to prevent ALI)
 https://stm.sciencemag.org/content/9/408/eaah5360?utm_source=VancePak%20%28updated%206/30/2017%29&utm_campaign=2fa0418255-EMAIL_CAMPAIGN_2017_09_15&utm_medium=email&utm_term=0_56c46682ac-2fa0418255-126546449
 
+For comments please open issues :-)
+best,
+Daniel J McGoldrick
