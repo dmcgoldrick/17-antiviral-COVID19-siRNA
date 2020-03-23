@@ -18,7 +18,7 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
 
 7) Displaced the siRNA sequence allowing binding comparisons for neighboring kmers (ignoring G,U, and T) recorded lowest free energy of off-targets and the sequence to assess the genes that might be off-target hits in humans  - see dataset (siRNA_df.xlsx)
 
-7.1) ALL off-target sites in human trasncripts have a displacement predicted free energy change of greater than 11 kcal/mol disfavoring their binding see Keq ratios in xlsx.
+7.1) ALL potential off-target sites in human transcripts have a predicted free energy change of greater than ~ 11 kcal/mol disfavoring their binding (see Keq ratios in siRNA_df.xlsx). So viral targets are favored more than 10 fold. Unlike other agents for RNAi which globally attack mRNA and have approval from the FDA for ebola and SARS-coV-2, these siRNA agents are unlikely to affect host human mRNA in the lungs to such a degree as the ebola medication.
  
 8) Release of the off-target gene stats 
  
