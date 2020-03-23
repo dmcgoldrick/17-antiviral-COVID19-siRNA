@@ -18,7 +18,7 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
 
 7) Displaced the siRNA sequence allowing binding comparisons for neighboring kmers (ignoring G,U, and T) recorded lowest free energy of off-targets and the sequence to assess the genes that might be off-target hits in humans  - see dataset (siRNA_df.xlsx)
 
-7.1) no host off-target has a predicted free energy change of greater than -12 kcal/mol.
+7.1) ALL off-target sites in human trasncripts have a displacement predicted free energy change of greater than 11 kcal/mol disfavoring their binding see Keq ratios in xlsx.
  
 8) Release of the off-target gene stats 
  
