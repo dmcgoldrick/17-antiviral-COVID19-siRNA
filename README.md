@@ -39,6 +39,10 @@ https://www.sigmaaldrich.com/life-science/custom-oligos/sirna-oligos.html
 or ...
 choose your own
 
+# Cost effective Lab Production Reference
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC152823/
+
 # Simple Clinical Delivery Methods 
 https://www.jstage.jst.go.jp/article/cpb/64/1/64_c15-00615/_pdf/-char/en
 
