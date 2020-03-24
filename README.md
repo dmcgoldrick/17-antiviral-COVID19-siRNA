@@ -39,7 +39,7 @@ https://www.sigmaaldrich.com/life-science/custom-oligos/sirna-oligos.html
 or ...
 choose your own
 
-# Cost effective Lab Production Reference
+# Cost Effective Lab Production Reference
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC152823/
 
