@@ -59,6 +59,10 @@ https://www.frontiersin.org/articles/10.3389/fendo.2018.00402/full
 # miR-223 reference (promising miRNA that affects ARDS and ALI)
 https://stm.sciencemag.org/content/9/408/eaah5360?utm_source=VancePak%20%28updated%206/30/2017%29&utm_campaign=2fa0418255-EMAIL_CAMPAIGN_2017_09_15&utm_medium=email&utm_term=0_56c46682ac-2fa0418255-126546449
 
+# Recent Powerpoint presentation
+
+https://docs.google.com/presentation/d/1QJPAHh0LMmp01nwcUsoS785jvM5FPzEQw8eEfYTQSFI/edit?usp=sharing
+
 For comments please open issues :-)
 best,
 Daniel J McGoldrick
