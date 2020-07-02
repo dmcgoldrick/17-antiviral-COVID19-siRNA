@@ -24,7 +24,41 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
  
 9) Report final selection for siRNA chemistry - Targets.seq
 
-10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. Reuces the list to 9.
+10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. Reduces the list to 9.
+
+11) find out who submitted sequences for the discrepencies in the 8 siRNA initally reported here and confirm the validity and source of the submission
+for example siRNA candidate 0 had only one discrepency in the public sequence of the siRNA submitted by Zhejiang Provincial Center for Disease
+            Provention and Control/Beijing Institute of Radiation Medicine,
+            Academy of Military Medical Science, No. 27, Taiping Road, Beijing
+            100850, P.R. China in 2003
+
+LOCUS       AY297028               29715 bp    RNA     linear   VRL 19-MAY-2003
+DEFINITION  SARS coronavirus ZJ01, complete genome.
+ACCESSION   AY297028
+VERSION     AY297028.1
+KEYWORDS    .
+SOURCE      SARS coronavirus ZJ01
+  ORGANISM  SARS coronavirus ZJ01
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 29715)
+  AUTHORS   Li,L., Chen,S., Lu,Y., Zhang,M., Weng,J., Bo,X., Yan,J., Ding,Y.,
+            Zhang,Y., Fan,Y., Cheng,S., Sun,O., Mei,L., Li,L., Yao,J., Wang,Z.,
+            Wu,N., Wo,J. and Wang,S.
+  TITLE     SARS coronavirus ZJ01 isolate genome sequence
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 29715)
+  AUTHORS   Li,L., Chen,S., Lu,Y., Zhang,M., Weng,J., Bo,X., Yan,J., Ding,Y.,
+            Zhang,Y., Fan,Y., Cheng,S., Sun,O., Mei,L., Li,L., Yao,J., Wang,Z.,
+            Wu,N., Wo,J. and Wang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2003) Zhejiang Provincial Center for Disease
+            Provention and Control/Beijing Institute of Radiation Medicine,
+            Academy of Military Medical Science, No. 27, Taiping Road, Beijing
+            100850, P.R. China
+            
+This would not impact the effectiveness of the siRNA 0 in all the other strain genotypes sequenced to date globally so that siRNA would still be a candidate.
 
 So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form and taken into the lungs.
 
