@@ -26,6 +26,10 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
 
 So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form and taken into the lungs.
 
+# NEW 2020-07-02 Single Line Multiple Alignment of 3928 SARS coV2 isolates
+see SARS_COV2_mafft_singleLine.out.gz
+This file traces the changes in the SARS virus
+
 # Sequence Sources:
 sequences can be ordered here:
 https://www.thermofisher.com/order/custom-genomic-products/tools/sirna/
