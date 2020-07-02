@@ -1,4 +1,4 @@
-# 17 specific siRNA hitting 9 loci of SARS_CoV-2 - the cause of COVID-19
+# 17 specific siRNA hitting 9 loci of SARS_CoV-2 - the cause of COVID-19 reduced to 9 globally confirmed candidates 20200702 
 An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like corona virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2; Wuhan-HU-1 NC_045512). This is the cause of COVID-19. I found 17 best candidate siRNA sequences potentially useful for nebulization therapy.
 
 # Methods
@@ -24,7 +24,7 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
  
 9) Report final selection for siRNA chemistry - Targets.seq
 
-10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. 
+10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. Reuces the list to 9.
 
 So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form and taken into the lungs.
 
