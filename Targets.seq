@@ -1,4 +1,4 @@
-Based on multi-alignment with 3928 isolates as of 20200702 - 9 conserved siRNA
+Based on perfect multi-alignment with 3928 isolates as of 20200702 - 9 conserved siRNA
 name	SARS_coV_2_21mer	dG_virus	RNAseq_F-OH	RNAseq_R-OH
 sars2_3	CTGCTCGCATAGTGTATACAG	-41.22	CUGCUCGCAUAGUGUAUACAG	CUGUAUACACUAUGCGAGCAG
 sars2_4	CTCGTGACATAGCATCTACAG	-41.17	CUCGUGACAUAGCAUCUACAG	CUGUAGAUGCUAUGUCACGAG
