@@ -26,8 +26,7 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
 
 10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. Reduces the list to 9.
 
-11) find out who submitted sequences for the discrepencies in the 8 siRNA initally reported here and confirm the validity and source of the submission
-for example siRNA candidate 0 had only one discrepency in the public sequence of the siRNA submitted by Zhejiang Provincial Center for Disease
+11) Find out the source of the sequences for the discrepencies in the 8 siRNA initally reported here.Confirm the validity and source of the submission .For example siRNA candidate 0 had only one discrepency in the public sequence of the siRNA submitted by Zhejiang Provincial Center for Disease
             Provention and Control/Beijing Institute of Radiation Medicine,
             Academy of Military Medical Science, No. 27, Taiping Road, Beijing
             100850, P.R. China in 2003
