@@ -24,46 +24,16 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
  
 9) Report final selection for siRNA chemistry - Targets.seq
 
-10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. Reduces the list to 9.
+10) Check the conservation of the inital targets against 3928 publicly available complete genome isolates across the globe and by other researchers than Wuhan1/Chinese researchers. All hit SARS2 many hit SARS1, three strains are ancestral max matches wrt the Covid-19 strains: MG772933.1, MG772933.1 MN996532.1
+These strains might serve as a consensus for the ancestral origin and analysis of selection/recombination across the SARS2 genome.
 
-11) Find out the source of the sequences for the discrepencies in the 8 siRNA initally reported here.Confirm the validity and source of the submission .For example siRNA candidate 0 had only one discrepency in the public sequence of the siRNA submitted by Zhejiang Provincial Center for Disease
-            Provention and Control/Beijing Institute of Radiation Medicine,
-            Academy of Military Medical Science, No. 27, Taiping Road, Beijing
-            100850, P.R. China in 2003
+11) report all sequences in 5'-3' orientation now that the multialignment confirms the genome.
 
-LOCUS       AY297028               29715 bp    RNA     linear   VRL 19-MAY-2003
-DEFINITION  SARS coronavirus ZJ01, complete genome.
-ACCESSION   AY297028
-VERSION     AY297028.1
-KEYWORDS    .
-SOURCE      SARS coronavirus ZJ01
-  ORGANISM  SARS coronavirus ZJ01
-            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
-            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
-            Betacoronavirus; Sarbecovirus.
-REFERENCE   1  (bases 1 to 29715)
-  AUTHORS   Li,L., Chen,S., Lu,Y., Zhang,M., Weng,J., Bo,X., Yan,J., Ding,Y.,
-            Zhang,Y., Fan,Y., Cheng,S., Sun,O., Mei,L., Li,L., Yao,J., Wang,Z.,
-            Wu,N., Wo,J. and Wang,S.
-  TITLE     SARS coronavirus ZJ01 isolate genome sequence
-  JOURNAL   Unpublished
-REFERENCE   2  (bases 1 to 29715)
-  AUTHORS   Li,L., Chen,S., Lu,Y., Zhang,M., Weng,J., Bo,X., Yan,J., Ding,Y.,
-            Zhang,Y., Fan,Y., Cheng,S., Sun,O., Mei,L., Li,L., Yao,J., Wang,Z.,
-            Wu,N., Wo,J. and Wang,S.
-  TITLE     Direct Submission
-  JOURNAL   Submitted (12-MAY-2003) Zhejiang Provincial Center for Disease
-            Provention and Control/Beijing Institute of Radiation Medicine,
-            Academy of Military Medical Science, No. 27, Taiping Road, Beijing
-            100850, P.R. China
-            
-This would not impact the effectiveness of the siRNA 0 in all the other strain genotypes sequenced to date globally so that siRNA would still be a candidate.
-
-So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable vapor form and taken into the lungs.
+So these siRNA oligos are available for clinical research testing against cases that are not responding to vaccines or other therapy. The sequence plus the antisense RNA can be ordered (sources below e.g. Megascript  RNAi kit - $472/20 reactions ) and annealed together in a suitable sterile physiological buffer to generate siRNA in a deliverable nebulizable vapor form and taken into the lungs.
 
 # NEW 2020-07-02 Single Line Multiple Alignment of 3928 SARS coV2 isolates
 see SARS_COV2_mafft_singleLine.out.gz
-This file traces the changes in the SARS virus
+This file traces the changes in the SARS virus and is the initial multiple alignment using mafft
 
 # Sequence Sources:
 sequences can be ordered here:
