@@ -1,5 +1,5 @@
-#Based on perfect multi-alignment with 3928 isolates as of 20200702 all sequences reported 5'-3' wrt Viral genome
-name	SARS_coV_2_21mer	dG_virus	RNAseq_F-OH	RNAseq_R-OH
+#Checking multi-alignment with 3928 isolates as of 20200702 all sequences reported 5'-3' wrt Viral genome
+name	5'-SARS_coV_2_21mer-3'r	dG_virus	RNAseq_F-OH	RNAseq_R-OH
 Sars2_0	CTAGTACTGATGTCGTATACA	-38.35	CUAGUACUGAUGUCGUAUACA	UGUAUACGACAUCAGUACUAG
 Sars2_1	GCTGTATACACTATGCGAGCA	-42.56	GCUGUAUACACUAUGCGAGCA	UGCUCGCAUAGUGUAUACAGC
 Sars2_2	TCTCTATCTGTAGTACTATGA	-38.26	UCUCUAUCUGUAGUACUAUGA	UCAUAGUACUACAGAUAGAGA
