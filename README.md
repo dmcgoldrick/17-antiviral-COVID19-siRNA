@@ -79,6 +79,7 @@ or ...
 choose your own
 
 # Cost Effective Lab Production Reference
+https://www.thermofisher.com/order/catalog/product/AM1626#/AM1626
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC152823/
 
