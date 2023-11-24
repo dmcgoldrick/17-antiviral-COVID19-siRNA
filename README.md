@@ -14,7 +14,7 @@ An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like c
   
 5) Of the 17 aligned candidates left, put the sequences through a thermodynamic nearest neighbor analysis for off -target binding
   
-6) Inspected the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png). These 21mers hit 9 distinct locations all across the COVID-19 genome
+6) Inspected the distribution of target sites on the annotated Wuhan-Hu-1 genome for the targeting sites (see WH1.png). These 21mers hit 9 distinct locations spread across the viral genome
 
 7) Displaced the siRNA sequence allowing binding comparisons for neighboring kmers (ignoring G,U, and T) recorded lowest free energy of off-targets and the sequence to assess the genes that might be off-target hits in humans  - see dataset (siRNA_df.xlsx)
 
