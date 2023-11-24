@@ -1,4 +1,4 @@
-# Specific siRNA hitting 9 loci of SARS_CoV-2 - the cause of COVID-19 
+# Targeting SARS-CoV-2 with siRNA
 An RNAi pipeline is applied to the genome of the positive sense RNA, SARS-like corona virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2; Wuhan-HU-1 NC_045512). This is the cause of COVID-19. I found 17 best candidate siRNA sequences potentially useful for nebulization therapy. Download Targets.seq to get these siRNA sequences.
 
 # Methods
